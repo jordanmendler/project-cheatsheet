@@ -1,2 +1,2 @@
-# cheatsheets
-Compilation of cheatsheets related to Machine Learning, AI, etc
+# Cheat Sheet Compilation
+Compilation of cheatsheets related to AI, Machine Learning, Computer Science, Software Development, etc. This repository is targeted towards Computer Scientists, Data Scientists, and Software Engineers. Please contribute the top cheatsheets you find for any problem languages or relevant topics.
