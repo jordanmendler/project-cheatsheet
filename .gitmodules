@@ -1,0 +1,18 @@
+[submodule ".sources/stanford-cme-102-ordinary-differential-equations"]
+	path = .sources/stanford-cme-102-ordinary-differential-equations
+	url = git@github.com:shervinea/stanford-cme-102-ordinary-differential-equations.git
+[submodule ".sources/stanford-cme-106-probability-and-statistics"]
+	path = .sources/stanford-cme-106-probability-and-statistics
+	url = git@github.com:shervinea/stanford-cme-106-probability-and-statistics.git
+[submodule ".sources/stanford-cs-229-machine-learning"]
+	path = .sources/stanford-cs-229-machine-learning
+	url = git@github.com:afshinea/stanford-cs-229-machine-learning.git
+[submodule ".sources/stanford-cs-230-deep-learning"]
+	path = .sources/stanford-cs-230-deep-learning
+	url = git@github.com:afshinea/stanford-cs-230-deep-learning.git
+[submodule ".sources/stanford-cs-221-artificial-intelligence"]
+	path = .sources/stanford-cs-221-artificial-intelligence
+	url = git@github.com:afshinea/stanford-cs-221-artificial-intelligence.git
+[submodule ".sources/cheatsheets-ai"]
+	path = .sources/cheatsheets-ai
+	url = git@github.com:kailashahirwar/cheatsheets-ai.git
